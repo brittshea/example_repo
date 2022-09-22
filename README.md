@@ -4,4 +4,4 @@ this is intended to make sure that everything is fine ...
 
 that mostly works.
 
-everythign works, this is a confirmation
+everything works, this is a confirmation
